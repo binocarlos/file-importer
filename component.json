@@ -1,0 +1,25 @@
+{
+  "name": "file-importer",
+  "repo": "binocarlos/file-importer",
+  "description": "A digger component that imports file contents into the current folder",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "enyo/dropzone": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "images":[
+    "spritemap.png",
+    "spritemap@2x.png"
+  ],
+  "styles": [
+    "uploader.css"
+  ],
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "remotes": []
+}
